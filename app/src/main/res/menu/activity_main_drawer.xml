@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/qk_contact"
+        android:icon="@android:drawable/stat_sys_speakerphone"
+        android:title="Municipality Contacts" />
+
+    <item
+        android:id="@+id/u_settings"
+        android:icon="@drawable/ic_menu_manage"
+        android:title="Profile Settings" />
+
+    <item
+        android:id="@+id/locn"
+        android:icon="@android:drawable/ic_menu_mylocation"
+        android:title="Get your location" />
+
+    <item
+        android:id="@+id/sn_message"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:title="Information on Waste" />
+
+    <item
+        android:id="@+id/si_out"
+        android:icon="@android:drawable/ic_lock_lock"
+        android:title="Sign Out" />
+
+</menu>

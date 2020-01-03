@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "913672564734",
+    "firebase_url": "https://garbagedb-5a1ca.firebaseio.com",
+    "project_id": "garbagedb-5a1ca",
+    "storage_bucket": "garbagedb-5a1ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913672564734:android:12728fdcc2454ab9",
+        "android_client_info": {
+          "package_name": "com.shank.amd.garbagemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913672564734-c1q7uipkgpgrh6c2vjptvfi3krebc21g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Lw41_kPu6Q7hRhs_FyjJECvzFOEcN4Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913672564734:android:59001a621e55aa64",
+        "android_client_info": {
+          "package_name": "com.Shankk.amd.garbageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913672564734-c1q7uipkgpgrh6c2vjptvfi3krebc21g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Lw41_kPu6Q7hRhs_FyjJECvzFOEcN4Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
